@@ -12,3 +12,4 @@ while 1:
     if not data: break
     conn.send(data)
 conn.close()
+print "hello"
